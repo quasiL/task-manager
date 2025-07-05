@@ -1,0 +1,10 @@
+{
+  "name": "quasi/task-manager",
+  "description": "A simple task manager app in PHP using MVC and SQLite",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  }
+}
