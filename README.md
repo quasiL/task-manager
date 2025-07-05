@@ -2,6 +2,8 @@
 
 A simple PHP 8.4 task management app using SQLite3. You can run it locally with PHP or inside Docker.
 
+![](assets/app.png)
+
 ## Features
 
 - **Add, edit, delete tasks**
